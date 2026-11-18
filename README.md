@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Ls4N-P4cheC0
-- 👀 I’m interested in php, python
-- 🌱 I’m currently learning php, python
-- 💞️ I’m looking to collaborate on personal project
-- 📫 How to reach me byedos@hotmail.com
+# Hi, I'm Luis Sánchez
 
-<!---
-Ls4N-P4cheC0/Ls4N-P4cheC0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software developer from Mérida, Yucatán, México.
+
+I'm still learning, step by step, and I enjoy understanding how things work before using them.
+
+### What I'm working on
+
+- Asset-management system modernization (Public sector, education)
+- Learning Laravel, React and TypeScript in real projects
+- Automated workflows with Google Apps Script and Google Sheets
+
+### What I work with
+
+- PHP (Laravel, CodeIgniter)
+- MySQL / MariaDB
+- JavaScript
+- Docker and Linux
+
+### 🌱 Currently learning
+
+- React + TypeScript
+- Testing with Pest
+- Modern Laravel practices
+
+### 📫 How to reach me
+
+- Email: byedos@hotmail.com
